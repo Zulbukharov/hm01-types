@@ -41,6 +41,12 @@ func Merge(left []int, right []int) []int {
 
 // HAVE TRIED THIS OPTION BUT COULDN'T PROPERLY MAKE RECURSIVE CALL
 
+// var (
+// 	k    int
+// 	arr  = []int{}
+// 	arr2 = []int{}
+// )
+
 // func MergeSort(input []int) []int {
 // 	if len(input) == 0 || len(input) == 1 {
 // 		return input
